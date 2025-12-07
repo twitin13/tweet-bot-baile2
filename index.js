@@ -16,10 +16,10 @@ const client = new TwitterApi({
 Murah banget mumpung lagi turun harga, janji jiwa 10K-an UDAH TERMASUK ONGKIR!!
 
 Buruan co sebelum naik 👇
-spf.shopee.co.id/7V91dHlyAk
-spf.shopee.co.id/7V91dHlyAk
+https://spf.shopee.co.id/7V97EMek2s
+https://spf.shopee.co.id/7V97EMek2s
 
-diskon kode promo voucher shopeefood Selasa Rabu Kamis gofood grabfood
+diskon kode promo voucher shopeefood Selasa Rabu Kamis gofood grabfood daget dana kaget sarapan pagiii
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -36,4 +36,5 @@ diskon kode promo voucher shopeefood Selasa Rabu Kamis gofood grabfood
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
